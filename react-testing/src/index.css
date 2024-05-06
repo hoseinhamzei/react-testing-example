@@ -2,3 +2,7 @@ body{
   font-family: sans-serif;
   padding: 1rem;
 }
+
+h1, h2, h3, h4, h5, h6, p, button, input{
+  margin-bottom: 1rem;
+}
